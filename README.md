@@ -1,4 +1,4 @@
-In this project, I used CSS, HTML, and JS to create a website, where your mouse acts like a pen. 
+In this project, I used CSS, HTML, and JS to create a website, where your mouse acts like a pen on a whiteboard. 
 
 Where it hovers across the grid, the block gets colored in. 
 
